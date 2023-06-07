@@ -20,7 +20,7 @@ This means the role-playing exercise focuses on critical thinking and skill mast
 
 Putting ECS in Virtual Reality makes ECS a scalable solution that can be deployed to multiple locations simultaneously, and more immediately respond to the growth of the firm.    
 
-Participants will have a shared experience in this trainer; i.e. they will all see the AI avatar doing the role-playing, and hear the appointed participant interacting with the AI, whether that is through networked VR headsets for each participant, or all participants viewing a projected screen without glasses.   One participant at a time will verbally interact with the AI, either by a handheld microphone shared amongst the participants, or via the individual headset microphones.   
+Participants will have a shared experience in this trainer; i.e. they will all see the AI avatar doing the role-playing, and hear the appointed participant interacting with the AI, either through networked VR headsets for each participant, or all participants viewing a projected screen without glasses depending on Morgan Lewis’ requirements.   One participant at a time will verbally interact with the AI, either by a handheld microphone shared amongst the participants, or via the individual headset microphones.   
 
 The AI will use subject matter expert written scripts and documentation as prompts from which to dynamically respond to user input.   Participants will be using their ‘moves’ to propel the conversation forward.   
 
