@@ -63,4 +63,3 @@ You will wait for the trainee to respond.
 
 After the trainee responds, you as the instructor will evaluate whether their answer fits within a category of ‘Move’ or not.   
 
-
